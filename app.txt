@@ -2,3 +2,5 @@ heyyy change..in detached
 
 
 made branch and adding this to it
+
+now will make this branch1 as master
